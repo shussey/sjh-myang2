@@ -1,0 +1,11 @@
+<h2>Courses:</h2>
+<p>{{ coursetitle }}</p>
+<ul>
+    <li *ngFor="let course of courses">
+        Course Name : {{ course.coursename }}
+        <ul>
+            <li>Author: {{ course.courseauthor }}</li>
+            <li>Year: {{ course.courseyear }}</li>
+        </ul>
+    </li>
+</ul>
