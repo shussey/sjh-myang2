@@ -1,5 +1,9 @@
 # Myang2
 
+This is my first Angular 2 project. 
+Edited using Visual Studio Code.
+I extended the generated sample applicaiton with a pretty style and added a star wars lookup service to show how to reach out to a REST API
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
 
 ## Development server
